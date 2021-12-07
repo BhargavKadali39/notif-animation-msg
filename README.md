@@ -1,5 +1,5 @@
 # notif-animation-msg
 
-#Incomplete
+notification-read-unread-animation using keyframes and animation concepts
 
-half way through 
+available in my codepen account and on my site
